@@ -1,0 +1,4 @@
+mode,md_cal,ch,fre,bw,md_n,rate,p_len,target_power,tpower_sta
+11ax MCS11 HE40,4,3,2422,1,5,11,8192,15,18
+11ax MCS11 HE80,4,7,2442,1,5,11,8192,15,18
+11ax MCS11 HE80,4,11,2462,1,5,11,8192,15,18
